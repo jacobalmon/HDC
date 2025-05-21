@@ -1,0 +1,75 @@
+Epoch [1/5], Step [100/1250], Loss: 0.005330
+Epoch [1/5], Step [200/1250], Loss: 0.004678
+Epoch [1/5], Step [300/1250], Loss: 0.005002
+Epoch [1/5], Step [400/1250], Loss: 0.004303
+Epoch [1/5], Step [500/1250], Loss: 0.004238
+Epoch [1/5], Step [600/1250], Loss: 0.004429
+Epoch [1/5], Step [700/1250], Loss: 0.004354
+Epoch [1/5], Step [800/1250], Loss: 0.004501
+Epoch [1/5], Step [900/1250], Loss: 0.004768
+Epoch [1/5], Step [1000/1250], Loss: 0.004355
+Epoch [1/5], Step [1100/1250], Loss: 0.003974
+Epoch [1/5], Step [1200/1250], Loss: 0.004641
+Epoch [1/5], Average Loss: 0.005822
+Epoch [1/5], Validation Loss: 0.004242
+Average Cosine Similarity on Test Set: 0.9958
+Epoch [2/5], Step [100/1250], Loss: 0.004764
+Epoch [2/5], Step [200/1250], Loss: 0.004489
+Epoch [2/5], Step [300/1250], Loss: 0.003926
+Epoch [2/5], Step [400/1250], Loss: 0.003978
+Epoch [2/5], Step [500/1250], Loss: 0.004264
+Epoch [2/5], Step [600/1250], Loss: 0.004029
+Epoch [2/5], Step [700/1250], Loss: 0.003868
+Epoch [2/5], Step [800/1250], Loss: 0.004380
+Epoch [2/5], Step [900/1250], Loss: 0.004633
+Epoch [2/5], Step [1000/1250], Loss: 0.004233
+Epoch [2/5], Step [1100/1250], Loss: 0.004192
+Epoch [2/5], Step [1200/1250], Loss: 0.004125
+Epoch [2/5], Average Loss: 0.004310
+Epoch [2/5], Validation Loss: 0.004185
+Average Cosine Similarity on Test Set: 0.9958
+Epoch [3/5], Step [100/1250], Loss: 0.004125
+Epoch [3/5], Step [200/1250], Loss: 0.004215
+Epoch [3/5], Step [300/1250], Loss: 0.004853
+Epoch [3/5], Step [400/1250], Loss: 0.004372
+Epoch [3/5], Step [500/1250], Loss: 0.003864
+Epoch [3/5], Step [600/1250], Loss: 0.004467
+Epoch [3/5], Step [700/1250], Loss: 0.003424
+Epoch [3/5], Step [800/1250], Loss: 0.003736
+Epoch [3/5], Step [900/1250], Loss: 0.003713
+Epoch [3/5], Step [1000/1250], Loss: 0.003946
+Epoch [3/5], Step [1100/1250], Loss: 0.003808
+Epoch [3/5], Step [1200/1250], Loss: 0.004277
+Epoch [3/5], Average Loss: 0.004089
+Epoch [3/5], Validation Loss: 0.003791
+Average Cosine Similarity on Test Set: 0.9962
+Epoch [4/5], Step [100/1250], Loss: 0.003600
+Epoch [4/5], Step [200/1250], Loss: 0.004112
+Epoch [4/5], Step [300/1250], Loss: 0.003943
+Epoch [4/5], Step [400/1250], Loss: 0.003762
+Epoch [4/5], Step [500/1250], Loss: 0.004249
+Epoch [4/5], Step [600/1250], Loss: 0.004597
+Epoch [4/5], Step [700/1250], Loss: 0.004012
+Epoch [4/5], Step [800/1250], Loss: 0.003885
+Epoch [4/5], Step [900/1250], Loss: 0.003730
+Epoch [4/5], Step [1000/1250], Loss: 0.003586
+Epoch [4/5], Step [1100/1250], Loss: 0.003952
+Epoch [4/5], Step [1200/1250], Loss: 0.003363
+Epoch [4/5], Average Loss: 0.003949
+Epoch [4/5], Validation Loss: 0.003754
+Average Cosine Similarity on Test Set: 0.9962
+Epoch [5/5], Step [100/1250], Loss: 0.004040
+Epoch [5/5], Step [200/1250], Loss: 0.003924
+Epoch [5/5], Step [300/1250], Loss: 0.004075
+Epoch [5/5], Step [400/1250], Loss: 0.004124
+Epoch [5/5], Step [500/1250], Loss: 0.003885
+Epoch [5/5], Step [600/1250], Loss: 0.003722
+Epoch [5/5], Step [700/1250], Loss: 0.004085
+Epoch [5/5], Step [800/1250], Loss: 0.003451
+Epoch [5/5], Step [900/1250], Loss: 0.004581
+Epoch [5/5], Step [1000/1250], Loss: 0.003829
+Epoch [5/5], Step [1100/1250], Loss: 0.003906
+Epoch [5/5], Step [1200/1250], Loss: 0.003614
+Epoch [5/5], Average Loss: 0.003951
+Epoch [5/5], Validation Loss: 0.003797
+Average Cosine Similarity on Test Set: 0.9962
