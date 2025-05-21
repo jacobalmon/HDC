@@ -1,3 +1,4 @@
+HDC with IMDB Dataset.
 Epoch [1/5], Step [100/1250], Loss: 0.005330
 Epoch [1/5], Step [200/1250], Loss: 0.004678
 Epoch [1/5], Step [300/1250], Loss: 0.005002
